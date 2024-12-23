@@ -1,0 +1,6 @@
+Các module sử dụng:
+    tkinter: tạo giao diện đơn giản (không cần cài đặt vì đã được tích hợp sẵn)
+    PyPDF2: đọc, đếm số trang của file pdf
+
+Cài đặt module (thư viện): (thực hiện thao tác này trong terminal)
+    pip install PyPDF2
